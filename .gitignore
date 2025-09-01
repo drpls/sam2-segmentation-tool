@@ -1,0 +1,37 @@
+# Modelli SAM2
+checkpoints/*.pt
+checkpoints/*.pth
+
+# File Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Maschere salvate
+.masks/
+*.npz
+
+# File di progetto
+.sam2_project.json
+
+# Ambienti virtuali
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Output
+png_masks/
+jpg_masks/
+backgrounds/

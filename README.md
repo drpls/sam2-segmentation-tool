@@ -2,6 +2,8 @@
 
 Un'applicazione PyQt5 avanzata per la segmentazione interattiva di immagini usando Segment Anything Model 2 (SAM2) di Meta.
 
+![SAM2 Segmentation Tool - Interfaccia principale](screenshot.png)
+
 ## Caratteristiche
 
 - 🎯 **Segmentazione Interattiva**: Clicca per aggiungere/rimuovere regioni con anteprima in tempo reale
